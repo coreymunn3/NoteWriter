@@ -1,0 +1,14 @@
+{
+  "name": "notesapp",
+  "version": "1.0.0",
+  "description": "Fake Backend for NotesApp",
+  "main": "app.js",
+  "scripts": {
+    "json:server": "json-server --watch api/db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}

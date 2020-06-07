@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Games tonight",
+      "body": "Cant wait to play games with friends later. Also, Saara is coming over.",
+      "date": "03/20/2020",
+      "id": 1
+    },
+    {
+      "title": "Almost done with the Notes App",
+      "body": "Been making good progress - I spent longer than expected on the UI and learning materialize CSS but the javascript elements went quicker than expected. I'm so far pretty happy with how it looks and feels.",
+      "date": "03/21/2020",
+      "id": 2
+    },
+    {
+      "title": "Another Sample Note",
+      "body": "Just creating another note to have a few more available in the list to test the app with. Maybe I should do this a few more times",
+      "date": "03/21/2020",
+      "id": 3
+    },
+    {
+      "title": "Basic note",
+      "body": "text text text",
+      "date": "03/23/2020",
+      "id": 4
+    },
+    {
+      "title": "Another Test",
+      "body": "test test",
+      "date": "03/24/2020",
+      "id": 5
+    }
+  ]
+}
